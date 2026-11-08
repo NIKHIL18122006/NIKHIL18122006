@@ -94,10 +94,6 @@ My interests extend beyond writing code — I like exploring concurrency, perfor
 
 </div>
 
-**Additional technologies & concepts**
-
-`REST APIs` · `Prisma ORM` · `Lua` · `Groq API` · `NVIDIA AI API` · `Object-Oriented Programming` · `Operating Systems` · `DBMS`
-
 ---
 
 ## ◈ 03 — Competitive Programming
@@ -125,38 +121,6 @@ My interests extend beyond writing code — I like exploring concurrency, perfor
 </div>
 
 I actively practice Data Structures and Algorithms, focusing on developing efficient solutions, analyzing time complexity, and improving problem-solving skills.
-
-**Areas of interest:**
-
-`Arrays` · `Trees` · `Graphs` · `Dynamic Programming` · `Greedy` · `Binary Search` · `Advanced Data Structures`
-
----
-
-## ◈ 04 — GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NIKHIL18122006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHIL18122006&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=NIKHIL18122006&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-
-</div>
-
----
-
-## ◈ 05 — Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NIKHIL18122006&bg_color=0d1117&color=38bdf8&line=2563eb&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Timeline" />
-
-</div>
-
----
 
 ## ◈ 06 — Beyond the Code
 
